@@ -1,6 +1,6 @@
 ---
 title: "REST vs GraphQL vs oData"
-date: "October 8, 2018"
+date: "2018-10-08"
 description: "REST vs GraphQL vs oData. Compare to decide what is best for your needs."
 ---
 

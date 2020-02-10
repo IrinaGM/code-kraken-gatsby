@@ -1,6 +1,6 @@
 ---
 title: "Programming Interview Insights"
-date: "June 26, 2018"
+date: "2018-06-26"
 description: "Some interesting programming Interview Insights with example questions and answers"
 ---
 

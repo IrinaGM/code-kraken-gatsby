@@ -1,6 +1,6 @@
 ---
 title: "Playing Agile"
-date: "June 28, 2018"
+date: "2018-06-28"
 description: "Agile games can be fun and constructive for the team."
 ---
 

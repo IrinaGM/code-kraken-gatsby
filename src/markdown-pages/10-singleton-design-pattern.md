@@ -1,6 +1,6 @@
 ---
 title: "Singleton Design Pattern"
-date: "November 2, 2018"
+date: "2018-11-02"
 description: "The many ways to write s singleton."
 ---
 

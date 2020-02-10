@@ -1,6 +1,6 @@
 ---
 title: "Spring Framework vs Spring Boot"
-date: "August 21, 2018"
+date: "2018-08-21"
 description: "Spring Framework vs Spring Boot. The difference and history of Spring."
 ---
 

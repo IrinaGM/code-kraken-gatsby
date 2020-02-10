@@ -1,6 +1,6 @@
 ---
 title: "Building a GraphQL Server with Spring Boot"
-date: "September 18, 2018"
+date: "2018-09-18"
 description: "Building a GraphQL Server with Spring Boot."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Let There Be Light"
-date: "June 21, 2018"
+date: "2018-06-21"
 description: "Without further ado, let there be light."
 ---
 

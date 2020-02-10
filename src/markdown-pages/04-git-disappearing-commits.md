@@ -1,6 +1,6 @@
 ---
 title: "Git Tutorial or The Mystery of the Disappearing Commits"
-date: "July 6, 2018"
+date: "2018-07-06"
 description: "Git Tutorial or The Mystery of the Disappearing Commits."
 ---
 

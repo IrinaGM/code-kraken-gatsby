@@ -1,6 +1,6 @@
 ---
 title: "React JS Router 4 Tutorial"
-date: "July 6, 2018"
+date: "2018-07-06"
 description: "React JS router 4 tutorial and examples."
 ---
 

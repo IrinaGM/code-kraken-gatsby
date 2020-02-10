@@ -1,6 +1,6 @@
 ---
 title: "SOLID Development Principles"
-date: "August 24, 2018"
+date: "2018-08-24"
 description: "SOLID Development Principles. Use clean code in your development."
 ---
 
