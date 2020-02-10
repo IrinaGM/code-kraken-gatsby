@@ -4,7 +4,6 @@ date: "2018-07-06"
 description: "React JS router 4 tutorial and examples."
 ---
 
-# React JS Router 4 Tutorial
 I decided to make a short tutorial on using React Router. For the past week I was playing with React and found he Router to be an integral part of it. The main difference of React Router 4 from its previous versions and other routers is that the routing takes place at the time your app is rendering. Seems like the Router development team decided to make extensive changes from the 4th version and make it more compatible with Reacts framework, and it shows. I had a positive experience using Router 4 in both its capability and compatibility with my React App.
 
 You can install React Router from either yarn by running:
@@ -51,6 +50,3 @@ Here we use the BrowserRouter in order to wrap our routes. This is the standard 
 In this example, we route from the “/items” path to the Items component. In the Items component, we match to the specific item by id and display the Item component for it. We can get the specific id in the component from props and display its data.
 
 These are the features that I used the most in the past week. More info on React Router can be found at  [Router](https://reacttraining.com/react-router/core/guides/philosophy) . There are lots of useful features for both React web and native.
-
-
-#home/blog/05-react-js-router-4-tutorial

@@ -4,7 +4,6 @@ date: "2018-08-21"
 description: "Spring Framework vs Spring Boot. The difference and history of Spring."
 ---
 
-# Spring Framework vs Spring Boot
 The past month was really stressful because we Immigrated to Canada. Therefore, I had to find a new job, a fact which caused the past two weeks to be filled with many interviews. One common question I encountered was: **“What is the difference between the Spring Framework and Spring Boot?”** 
 As someone who worked with Spring and Spring Boot for the past year and a half, I could explain all the common features of Spring. But there were a few points that still eluded me during the interview. This is why I decided to write a more comprehensive answer to this question.
 
@@ -28,5 +27,3 @@ A more complete description of all Spring Framework has to offer can be found on
 * _Absolutely no code generation and no requirement for XML configuration_
 
 In conclusion, Spring Boot is made to be the starting point for your Spring Framework development. It uses the Spring Framework and saves you a great deal of time on configuration. It is, in my opinion, a must in case you decided to develop using the Spring Framework.
-
-#home/blog/06-spring-framework-vs-spring-boot

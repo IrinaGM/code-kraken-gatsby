@@ -4,7 +4,6 @@ date: "2018-11-02"
 description: "The many ways to write s singleton."
 ---
 
-# Singleton Design Pattern
 Singleton is one of the simplest and well-known design patterns. It provides an easy way to create an object. By implementing this pattern, we can ensure that only a single object is created from a class. The singleton class provides a way to access the only created object of that class.
 
 There are multiple ways to create a singleton. Let’s go over a few:
@@ -129,6 +128,3 @@ public enum Singleton{
      }
 }
 ```
-
-
-#home/blog/10-singleton-design-pattern

@@ -4,7 +4,6 @@ date: "2018-07-06"
 description: "Git Tutorial or The Mystery of the Disappearing Commits."
 ---
 
-#  Git Tutorial or The Mystery of the Disappearing Commits
 This week I am going to write about a problem we had with our Git “commits” which gave us quite a scare. At the beginning of the week we deployed a new version to the production environment, and to our chagrin discovered that not all of the code changes found themselves in production. This was very weird because all of these changes were tested in the QA environment. The only explanation was therefore that the information was somehow lost while merging from the development branch to the master.
 
 Upon further investigation, we found that the missing “commits” were also absent from the development branch. This gave us a great shock because we knew for sure that we deployed this code to the QA environment. Even more confusing was the fact that we couldn’t find the “commits” anywhere in the Git history.
@@ -54,7 +53,3 @@ $ git push [remote] [branch] - Uploads all local branch commits to Git
 
 $ git pull - Downloads bookmark history and incorporates changes
 ```
-
-
-
-#home/blog/04-git-disappearing-commits

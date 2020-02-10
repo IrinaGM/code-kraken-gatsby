@@ -4,7 +4,6 @@ date: "2018-06-28"
 description: "Agile games can be fun and constructive for the team."
 ---
 
-# Playing Agile
 A few days ago I went to a meetup called “Agile games and gamification”. As a software developer I didn’t have too many expectations as it was intended mostly for scrum masters. Imagine my surprise as I did acquire some practical knowledge that may help me along the way. Besides, there was pizza and beer, so it could never be a failure. Therefore, I decided to share my experience and personal thoughts in this post.
 
 The presenters were a company called  [Ajimeh](http://www.ajimeh.com/)  which is an authority in agile training. It started by a short introduction to Scrum principals which gave a structure to the rest of the presentation. After that the audience was divided into several groups to simulate different Scrum teams for the following exercises.
@@ -22,6 +21,3 @@ The conclusion I got from this meetup is that these games are not really for eve
 I think that these games are great if you start a new team which you need to learn to work together in an agile methodology. It will also be useful to conduct such games when migrating teams to work in agile methodologies in big corporate companies. The reason for that is to add motivation for change in team members who are used to a completely different way of work.
 
 However, I wouldn’t use gamification in a team that is already motivated and implements agile. It will only distract the team and waste time. One thing stated by the presenters which I would recommend, is one weekly meeting that is not related to work. This can be great to elevate the constant pressure of the ongoing development.
-
-
-#home/blog/03-playing-agile

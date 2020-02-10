@@ -4,7 +4,6 @@ date: "2018-10-08"
 description: "REST vs GraphQL vs oData. Compare to decide what is best for your needs."
 ---
 
-# REST vs GraphQL vs oData
 **First, let’s explore REST VS GraphQL:**
 
 The main attraction of GraphQL is the Over-fetching argument. This means that in GraphQL you can choose only the fields you need when retrieving data. This can also be implemented using REST but requires more work on the API design.
@@ -49,6 +48,3 @@ oData stands for “Open Data Protocol” it is an ISO/IEC approved standard of 
 
 ## Conclusion
 oData can be a valid option for creating a business API as it will allow us to concentrate on constructing the business domain instead of focusing on the technical aspects of the API. It will also create a framework to follow for anyone who adds to the business domain. This way the product will remain cohesive over time. The disadvantage of oData is that the consumers will need to understand the API to use it. Although it will require less effort because oData is based on REST which most developers are familiar with.
-
-
-#home/blog/09-rest-vs-graphql-vs-odata

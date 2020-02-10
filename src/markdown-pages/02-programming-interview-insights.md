@@ -4,8 +4,6 @@ date: "2018-06-26"
 description: "Some interesting programming Interview Insights with example questions and answers"
 ---
 
-
-# Programming Interview Insights
 Hi all, this week’s post will be about some interesting questions and answers I encountered while preparing for a job interview.
 
 A few months ago my wife and I decided to permanently immigrate to Canada. The date is getting close, so I started to interview for positions in the Toronto area. In order to prepare for the programming questions, I reviewed a lot of data from various sites that suppose to prepare you for an interview.
@@ -159,6 +157,3 @@ private boolean isSymmetricHelp(TreeNode left, TreeNode right){
     return isSymmetricHelp(left.left, right.right) && isSymmetricHelp(left.right, right.left);
 }
 ```
-
-
-#home/blog/02-programming-interview-insights

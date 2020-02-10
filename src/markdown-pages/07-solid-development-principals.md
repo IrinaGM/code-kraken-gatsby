@@ -4,7 +4,6 @@ date: "2018-08-24"
 description: "SOLID Development Principles. Use clean code in your development."
 ---
 
-# SOLID Development Principles
 When writing code, it is important to satisfy the business requirements. But it is also equally important writing code that will be maintainable and easily modifiable. This is the reason for the introduction of SOLID principles by Robert Martin in his paper “Design Principles and Design Patterns”. The SOLID acronym itself was introduced by Michal Feathers. So What Does SOLID really means:
 
 * S – Single Responsibility Principle
@@ -39,6 +38,3 @@ An example for a general interface is a logger with two functions: “writeToLog
 The Principle states: “classes should depend on abstraction but not on concretion”. What this means is that we need to keep a decoupling between our modules and have a layer of abstraction as a communication between them.
 
 We can see examples in MVP frameworks where the high-level modules are separated from the lower level modules and communicate with each other using an interface. This design helps us change one module in the program without changing code that does not directly involve that module. For example, we can change the data access layer without any changes to the client.
-
-
-#home/blog/07-solid-development-principals

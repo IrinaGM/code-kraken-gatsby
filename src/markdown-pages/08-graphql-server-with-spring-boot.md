@@ -4,7 +4,6 @@ date: "2018-09-18"
 description: "Building a GraphQL Server with Spring Boot."
 ---
 
-# Building a GraphQL Server with Spring Boot
 As stated on the GraphQL website: “GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.”
 
 This means that GraphQL provides you the options to query your API in an easier way. The three greatest advantages in my opinion are:
@@ -344,7 +343,3 @@ Additionally, we will need to provide the input for the mutation. We can do this
 
 ## Conclusion
 GraphQL can provide some advantages for your API definition and reduce the number of data clients receive from the server. It integrates well with Spring Boot and is relatively easy to implement. So if you like the syntax and want to create a Domain Query Language it can be a great option.
-
-
-
-#home/blog/08-graphql-server-with-spring-boot
